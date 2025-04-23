@@ -55,7 +55,7 @@
 		"chalk": "^5.3.0",
 		"cli-alerts": "^2.0.0",
 		"cli-handle-error": "^4.4.0",
-		"cli-handle-unhandled": "^1.1.1",
+		"cli-handle-unhandled": "^1.1.2",
 		"cli-meow-help": "^4.0.0",
 		"cli-table3": "^0.6.5",
 		"cli-welcome": "^3.0.0",
